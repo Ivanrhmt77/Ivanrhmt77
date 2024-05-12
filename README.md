@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Ivanrhmt77&color=blue" alt="visitor badge"/>
 </div>
 
 ---
