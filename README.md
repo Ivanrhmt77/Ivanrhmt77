@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="[link-website-anda]">Website</a> •
-  <a href="https://www.linkedin.com/in/[username-linkedin-anda]">LinkedIn</a> •
+  <a href="www.linkedin.com/in/ivan-rahmat-prakasa-450737308">LinkedIn</a> •
   <a href="https://twitter.com/[username-twitter-anda]">Twitter</a>
 </p>
 
