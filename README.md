@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Nama Anda]</h1>
-<h3 align="center">A passionate [Bidang Keahlian] developer from [Negara/Asal Kota]</h3>
+<h1 align="center">Hi 👋, I'm Ivan Rahmat Prakasa</h1>
+<h3 align="center">A passionate Front End developer from Indonesia</h3>
 
 <p align="center">
   <a href="[link-website-anda]">Website</a> •
@@ -8,7 +8,7 @@
 </p>
 
 ---
-
+(Nanti saya ubah ya (dari chatGPT jir))
 I'm [Nama Anda], a [deskripsi singkat tentang keahlian dan latar belakang Anda, seperti "software engineer with a focus on web development and data science"]. I'm currently working at [Nama Perusahaan] and I'm passionate about creating technology that improves lives.
 
 - 🔭 I’m currently working on **[nama proyek atau topik yang sedang dikerjakan]**
