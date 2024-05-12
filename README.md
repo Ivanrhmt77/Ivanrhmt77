@@ -8,7 +8,7 @@
 </p>
 
 ---
-<p style='color: red;'>(Nanti saya ubah ya (dari chatGPT jir))</p> <br><br>
+<p style='color: #FF0000;'>(Nanti saya edit ya (dari chatGPT jir))</p> <br><br>
 I'm [Nama Anda], a [deskripsi singkat tentang keahlian dan latar belakang Anda, seperti "software engineer with a focus on web development and data science"]. I'm currently working at [Nama Perusahaan] and I'm passionate about creating technology that improves lives.
 
 - 🔭 I’m currently working on **[nama proyek atau topik yang sedang dikerjakan]**
