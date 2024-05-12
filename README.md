@@ -8,8 +8,8 @@
 </p>
 
 ---
-![Important](https://img.shields.io/badge/-Important-red?style=flat-square&logo=github)
-TODO: Nanti saya edit ya (dari ChatGPT jir) 
+
+Nanti saya edit ya (dari ChatGPT jir) 
 <br><br>
 I'm [Nama Anda], a [deskripsi singkat tentang keahlian dan latar belakang Anda, seperti "software engineer with a focus on web development and data science"]. I'm currently working at [Nama Perusahaan] and I'm passionate about creating technology that improves lives.
 
