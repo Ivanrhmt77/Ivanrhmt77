@@ -8,7 +8,7 @@
 </p>
 
 ---
-(Nanti saya ubah ya (dari chatGPT jir))
+(Nanti saya ubah ya (dari chatGPT jir)) <br>
 I'm [Nama Anda], a [deskripsi singkat tentang keahlian dan latar belakang Anda, seperti "software engineer with a focus on web development and data science"]. I'm currently working at [Nama Perusahaan] and I'm passionate about creating technology that improves lives.
 
 - 🔭 I’m currently working on **[nama proyek atau topik yang sedang dikerjakan]**
