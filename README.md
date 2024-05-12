@@ -7,6 +7,10 @@
   <a href="https://twitter.com/[username-twitter-anda]">Twitter</a>
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" alt="visitor badge"/>
+</div>
+
 ---
 
 Nanti saya edit ya (dari ChatGPT jir) 
