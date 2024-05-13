@@ -34,7 +34,7 @@ I'm [Nama Anda], a [deskripsi singkat tentang keahlian dan latar belakang Anda, 
 </p>
 
 ### My GitHub Stats:
-<p><img src="https://github-readme-stats.vercel.app/api?username=[Ivanrhmt77]&show_icons=true&locale=en" alt="[Ivanrhmt77]" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Ivanrhmt77&show_icons=true&locale=en" alt="Ivanrhmt77" /></p>
 
 ---
 
