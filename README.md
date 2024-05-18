@@ -34,7 +34,6 @@ I'm [Nama Anda], a [deskripsi singkat tentang keahlian dan latar belakang Anda, 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reihanrein&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reihanrein)](https://github.com/anuraghazra/github-readme-stats)
 
