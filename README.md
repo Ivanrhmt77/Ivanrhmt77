@@ -34,6 +34,7 @@ I'm [Nama Anda], a [deskripsi singkat tentang keahlian dan latar belakang Anda, 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanrhmt77)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My GitHub Stats:
 <p><img src="https://github-readme-stats.vercel.app/api?username=Ivanrhmt77&show_icons=true&locale=en" alt="Ivanrhmt77" /></p>
