@@ -15,14 +15,21 @@
 
 ### Languages and Tools:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="Linux Mint" width="40" height="40"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanrhmt77)
-
-### My GitHub Stats:
-<p><img src="https://github-readme-stats.vercel.app/api?username=Ivanrhmt77&show_icons=true&locale=en" alt="Ivanrhmt77" /></p>
+<table style="width: 100%; border: none;">
+  <tr>
+    <td style="width: 50%; border: none; text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanrhmt77" alt="Top Langs" style="width: 100%;"/>
+    </td>
+    <td style="width: 50%; border: none; text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ivanrhmt77&show_icons=true&locale=en" alt="GitHub Stats" style="width: 100%;"/>
+    </td>
+  </tr>
+</table>
