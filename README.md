@@ -13,19 +13,6 @@
 
 ---
 
-Nanti saya edit ya (dari ChatGPT jir) 
-<br><br>
-I'm [Nama Anda], a [deskripsi singkat tentang keahlian dan latar belakang Anda, seperti "software engineer with a focus on web development and data science"]. I'm currently working at [Nama Perusahaan] and I'm passionate about creating technology that improves lives.
-
-- 🔭 I’m currently working on **[nama proyek atau topik yang sedang dikerjakan]**
-- 🌱 I’m currently learning **[topik atau teknologi yang sedang dipelajari]**
-- 👯 I’m looking to collaborate on **[jenis proyek atau teknologi yang ingin dikerjakan bersama]**
-- 🤔 I’m looking for help with **[topik atau masalah yang Anda butuhkan bantuan]**
-- 💬 Ask me about **[topik yang Anda kuasai]**
-- 📫 How to reach me: **[email Anda]**
-- 😄 Pronouns: **[pilihan pronoun Anda, contoh: He/Him, She/Her]**
-- ⚡ Fun fact: **[fakta unik atau menarik tentang Anda]**
-
 ### Languages and Tools:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
