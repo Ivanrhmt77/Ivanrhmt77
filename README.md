@@ -26,13 +26,3 @@
 
 ### My GitHub Stats:
 <p><img src="https://github-readme-stats.vercel.app/api?username=Ivanrhmt77&show_icons=true&locale=en" alt="Ivanrhmt77" /></p>
-
----
-
-### Recent Projects:
-- **[Nama Proyek]** - [Deskripsi singkat tentang proyek](link-ke-repo)
-- **[Nama Proyek kedua]** - [Deskripsi singkat tentang proyek](link-ke-repo)
-[Tambahkan lebih banyak proyek sesuai dengan yang telah Anda kerjakan]
-
-Feel free to reach out for collaborations or just a chat!
-
