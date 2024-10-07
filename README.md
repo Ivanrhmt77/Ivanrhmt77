@@ -26,14 +26,17 @@
 
 <table style="width: 100%; border: none;">
   <tr>
-    <td style="width: 33%; border: none; text-align: center;">
+    <td style="width: 50%; border: none; text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanrhmt77" alt="Top Langs" style="width: 100%;"/>
     </td>
-    <td style="width: 33%; border: none; text-align: center;">
+    <td style="width: 50%; border: none; text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api?username=Ivanrhmt77&show_icons=true&locale=en" alt="GitHub Stats" style="width: 100%;"/>
     </td>
-    <td style="width: 33%; border: none; text-align: center;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivanrhmt77" alt="GitHub Stats" style="width: 100%;"/>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none; text-align: center; display: flex; justify-content: center;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivanrhmt77" alt="GitHub Streak Stats" style="width: 80%;"/>
     </td>
   </tr>
 </table>
+
